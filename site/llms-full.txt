@@ -1,4 +1,4 @@
-# How many skeins of yarn for a blanket
+# How many skeins of yarn for a blanket?
 
 > Scale yarn use from a measured swatch to your finished blanket dimensions, then round up to whole skeins. A swatch made in the actual stitch is more useful than a generic yarn-weight estimate.
 
@@ -6,7 +6,7 @@
 - [Open the calculator](https://tallysprig.com/): A 120 × 160 cm blanket scaled from a 10 × 10 cm swatch using 10 m needs 2,112 m with 10% extra: 11 skeins of 200 m.
 
 ## Guide
-- [How to how many skeins of yarn for a blanket](https://tallysprig.com/guide/): measurement inputs, formula, assumptions, limits and a worked example.
+- [How to work out how many skeins of yarn a blanket needs](https://tallysprig.com/guide/): step-by-step measuring, common mistakes, formula, limits and a worked example.
 
 ## Method
 Divide the blanket area by the swatch area, multiply by the yarn used for that swatch, multiply by the number of strands, and add your allowance. Divide by the length in one skein and round up. Measure the swatch after the same washing or blocking you plan for the blanket.
@@ -21,6 +21,17 @@ Use the same stitch, tension and yarn as the finished project. Enter yarn use pe
 ## Sources
 - [Craft Yarn Council: yarn standards](https://www.craftyarncouncil.com/standards)
 - [NIST: SI units and measurement](https://www.nist.gov/pml/owm/metric-si/si-units)
+
+## Step by step
+1. Make a swatch of at least 10 × 10 cm in the stitch, yarn and hook or needle size you will use for the blanket.
+2. Wash or block the swatch the same way you will treat the finished blanket, then measure it.
+3. Find how much yarn the swatch used: unravel and measure it, or weigh it and convert with the length and weight printed on the ball band.
+4. Read the length of one skein on the ball band and choose a spare allowance for the border and joins.
+
+## Common mistakes
+- Using a generic yarn-weight chart instead of your own swatch. Stitch pattern and tension change yarn use a lot.
+- Forgetting the border, which uses extra yarn beyond the main blanket area.
+- Buying too few skeins from one dye lot. A skein bought later may not match in colour.
 
 ## Worked examples
 ### Example 1
