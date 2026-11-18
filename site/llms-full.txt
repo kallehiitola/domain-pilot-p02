@@ -1,0 +1,27 @@
+# How many skeins of yarn for a blanket
+
+> Scale yarn use from a measured swatch to your finished blanket dimensions, then round up to whole skeins. A swatch made in the actual stitch is more useful than a generic yarn-weight estimate.
+
+## Calculator
+- [Open the calculator](https://tallysprig.com/): A 120 × 160 cm blanket scaled from a 10 × 10 cm swatch using 10 m needs 2,112 m with 10% extra: 11 skeins of 200 m.
+
+## Method
+Divide the blanket area by the swatch area, multiply by the yarn used for that swatch, multiply by the number of strands, and add your allowance. Divide by the length in one skein and round up. Measure the swatch after the same washing or blocking you plan for the blanket.
+
+## Limits
+Use the same stitch, tension and yarn as the finished project. Enter yarn use per single strand when using the strands field; if your measured swatch length already totals every strand, leave strands at one. Borders, texture changes and large gauge changes can change the result.
+
+## Supporting pages
+- [Method and assumptions](https://tallysprig.com/method/)
+- [About, editorial responsibility and privacy](https://tallysprig.com/about/)
+
+## Sources
+- [Craft Yarn Council: yarn standards](https://www.craftyarncouncil.com/standards)
+- [NIST: SI units and measurement](https://www.nist.gov/pml/owm/metric-si/si-units)
+
+## Worked examples
+### Example 1
+A 120 × 160 cm blanket scaled from a 10 × 10 cm swatch using 10 m needs 2,112 m with 10% extra: 11 skeins of 200 m.
+
+### Example 2
+A 100 × 100 cm blanket with the same swatch and no extra needs exactly 1,000 m, or 5 skeins.
