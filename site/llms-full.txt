@@ -5,6 +5,9 @@
 ## Calculator
 - [Open the calculator](https://tallysprig.com/): A 120 × 160 cm blanket scaled from a 10 × 10 cm swatch using 10 m needs 2,112 m with 10% extra: 11 skeins of 200 m.
 
+## Guide
+- [How to how many skeins of yarn for a blanket](https://tallysprig.com/guide/): measurement inputs, formula, assumptions, limits and a worked example.
+
 ## Method
 Divide the blanket area by the swatch area, multiply by the yarn used for that swatch, multiply by the number of strands, and add your allowance. Divide by the length in one skein and round up. Measure the swatch after the same washing or blocking you plan for the blanket.
 
