@@ -1,18 +1,20 @@
 # How many skeins of yarn for a blanket?
 
-> Scale yarn use from a measured swatch to your finished blanket dimensions, then round up to whole skeins. A swatch made in the actual stitch is more useful than a generic yarn-weight estimate.
+> Scale total yarn yardage and whole skeins directly from a washed swatch in your actual stitch, then sanity-check against standard blanket sizes and yarn weights.
 
 ## Calculator
-- [Open the calculator](https://tallysprig.com/): A 120 × 160 cm blanket scaled from a 10 × 10 cm swatch using 10 m needs 2,112 m with 10% extra: 11 skeins of 200 m.
+- [Open the calculator](https://tallysprig.com/): US throw: a 50 × 60 in blanket scaled from a 4 × 4 in swatch using 12 yd needs 2,475 yd with 10% extra (13 skeins of 200 yd). Metric: a 120 × 160 cm blanket scaled from a 10 × 10 cm swatch using 10 m needs 2,112 m with 10% extra (11 skeins of 200 m).
 
 ## Guide
-- [How to work out how many skeins of yarn a blanket needs](https://tallysprig.com/guide/): step-by-step measuring, common mistakes, formula, limits and a worked example.
+- [How to work out how many skeins of yarn a blanket needs](https://tallysprig.com/guide/): step-by-step measuring, common mistakes, and ordering checklist.
 
-## Method
-Divide the blanket area by the swatch area, multiply by the yarn used for that swatch, multiply by the number of strands, and add your allowance. Divide by the length in one skein and round up. Measure the swatch after the same washing or blocking you plan for the blanket.
+## Formula and method
+Base yarn = (blanket width × blanket length) / (swatch width × swatch height) × swatch yarn × strands; Skeins = ceiling(base yarn × (1 + extra / 100) / length per skein).
+
+Divide finished blanket area by measured swatch area to find how many swatch units make up the blanket. Multiply by yarn consumed in one swatch and by strands held together, add your border/safety allowance, divide by single-skein length, and round up to whole skeins.
 
 ## Limits
-Use the same stitch, tension and yarn as the finished project. Enter yarn use per single strand when using the strands field; if your measured swatch length already totals every strand, leave strands at one. Borders, texture changes and large gauge changes can change the result.
+Measure the swatch after the same washing or blocking planned for the blanket. Enter single-strand length in swatch yarn when strands > 1; if your measured swatch length already sums all strands, keep strands at 1. Wide borders, stitch changes, and tension drift alter total yardage.
 
 ## Supporting pages
 - [Method and assumptions](https://tallysprig.com/method/)
@@ -20,22 +22,37 @@ Use the same stitch, tension and yarn as the finished project. Enter yarn use pe
 
 ## Sources
 - [Craft Yarn Council: yarn standards](https://www.craftyarncouncil.com/standards)
-- [NIST: SI units and measurement](https://www.nist.gov/pml/owm/metric-si/si-units)
+- [Craft Yarn Council: standard yarn weight system](https://www.craftyarncouncil.com/standards/yarn-weight-system)
+- [Wikipedia: Yarn weight classifications](https://en.wikipedia.org/wiki/Yarn_weight)
+
+## Standard blanket dimensions and typical worsted (#4) yarn estimates
+
+Illustrative ranges for medium worsted-weight (#4) yarn. Crochet typically uses 25% to 30% more yarn than plain knitting; always verify with your own swatch.
+
+| Blanket size | US dimensions | Metric dimensions | Approx. yardage (#4 worsted) | Approx. 200-yd skeins |
+| --- | --- | --- | --- | --- |
+| Lovey / security | 12 × 12 in | 30 × 30 cm | 150–250 yd | 1–2 skeins |
+| Baby / crib | 30 × 36 in | 76 × 91 cm | 800–1,100 yd | 5–6 skeins |
+| Stroller / toddler | 35 × 45 in | 89 × 114 cm | 1,200–1,600 yd | 6–8 skeins |
+| Throw / afghan | 50 × 60 in | 127 × 152 cm | 2,200–3,000 yd | 11–15 skeins |
+| Twin bed | 66 × 90 in | 168 × 229 cm | 4,000–4,800 yd | 20–24 skeins |
+| Queen bed | 90 × 90 in | 229 × 229 cm | 5,400–6,500 yd | 27–33 skeins |
 
 ## Step by step
-1. Make a swatch of at least 10 × 10 cm in the stitch, yarn and hook or needle size you will use for the blanket.
-2. Wash or block the swatch the same way you will treat the finished blanket, then measure it.
-3. Find how much yarn the swatch used: unravel and measure it, or weigh it and convert with the length and weight printed on the ball band.
-4. Read the length of one skein on the ball band and choose a spare allowance for the border and joins.
+1. Knit or crochet a swatch at least 4 × 4 in (10 × 10 cm) using the exact stitch pattern, yarn, and needle or hook size planned for the blanket.
+2. Wash, dry, or block the swatch the same way you will care for the finished blanket, then measure its relaxed width and height.
+3. Find how much yarn the swatch consumed by unraveling and measuring it, or by weighing the swatch on a gram scale and converting with the ball band weight-to-yardage ratio.
+4. Enter your target blanket dimensions, single-skein yardage from the label, number of strands held together, and a 10% to 15% allowance for borders and joins.
 
 ## Common mistakes
-- Using a generic yarn-weight chart instead of your own swatch. Stitch pattern and tension change yarn use a lot.
-- Forgetting the border, which uses extra yarn beyond the main blanket area.
-- Buying too few skeins from one dye lot. A skein bought later may not match in colour.
+- Relying solely on a generic yarn-weight chart. Crochet stitches often consume 25% to 30% more yarn than stockinette knitting of the same dimensions.
+- Leaving out border edging. A multi-round crochet border on a large blanket can easily take one to two extra skeins.
+- Comparing skeins instead of total yardage when substituting yarn brands. Two worsted-weight skeins can differ by more than 100 yards.
+- Buying skeins from different dye lots. Even subtle shade shifts become obvious across a wide flat blanket.
 
 ## Worked examples
 ### Example 1
-A 120 × 160 cm blanket scaled from a 10 × 10 cm swatch using 10 m needs 2,112 m with 10% extra: 11 skeins of 200 m.
+Metric: a 120 × 160 cm blanket scaled from a 10 × 10 cm swatch using 10 m needs 2,112 m with 10% extra (11 skeins of 200 m).
 
 ### Example 2
-A 100 × 100 cm blanket with the same swatch and no extra needs exactly 1,000 m, or 5 skeins.
+US throw: a 50 × 60 in blanket scaled from a 4 × 4 in swatch using 12 yd needs 2,475 yd with 10% extra (13 skeins of 200 yd).
